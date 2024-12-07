@@ -3,4 +3,4 @@
 - 🌱 I’m currently following [TOP courses](https://theodinproject.com)
 - 🧠 I love puzzles and pr0b1em s01ving. Checkout my [codewars profile 💪](https://www.codewars.com/users/jvstln)
 - 💞️ I’m also learning how to collaborate on github
-- ⚡ !Fun fact: I suck at writeups and presentations but am working on that 🙂
+- ⚡ !Fun fact: fish are better than meats. 🙂
