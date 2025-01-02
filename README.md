@@ -1,6 +1,5 @@
 - 👋 Hi there, I’m Justin.
 - 👀 I’m interested in web development
 - 🌱 I’m currently following [TOP courses](https://theodinproject.com)
-- 🧠 I love puzzles and pr0b1em s01ving. Checkout my [codewars profile 💪](https://www.codewars.com/users/jvstln)
-- 💞️ I’m also learning how to collaborate on github
-- ⚡ !Fun fact: fish are better than meats. 🙂
+- 🧠 I love logic, puzzles and pr0b1em s01ving.
+- 💞️ ...Trying to keep complex stuff simple 🙂
