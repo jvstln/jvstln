@@ -1,0 +1,44 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+i",
+    "command": "composerMode.agent"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "aichat.newchataction",
+    "when": "!editorTextFocus"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-aichat.newchataction"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "expandLineSelection",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+p",
+    "command": "-expandLineSelection",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-windsurf.prioritized.chat.open",
+    "when": "!terminalFocus"
+  },
+  {
+    "key": "ctrl+,",
+    "command": "-workbench.action.openWindsurfSettings"
+  },
+  {
+    "key": "alt+c",
+    "command": "windsurf.openCascade"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "-windsurf.prioritized.chat.open",
+    "when": "!terminalFocus && !windsurf.deepwikiPanel.focused"
+  }
+]
