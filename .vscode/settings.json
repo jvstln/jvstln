@@ -1,4 +1,5 @@
 {
+  "tailwindCSS.classFunctions": ["cva", "clsx", "cn"],
   "files.associations": {
     "globals.css": "tailwindcss",
     "index.css": "tailwindcss"
@@ -34,5 +35,8 @@
   // "editor.cursorStyle": "block",
   "prettier.endOfLine": "lf",
   "editor.accessibilitySupport": "off",
-  "files.eol": "\n"
+  "files.eol": "\n",
+
+  "typescript.preferences.useAliasesForRenames": false,
+  "javascript.preferences.useAliasesForRenames": false
 }
